@@ -51,6 +51,8 @@ I have a developed a model that can very accuractely pick out problems and solut
 
 
 <!-- USAGE -->
+## Usage
+
 ### Prerequisites
 
 Before using this notebook to characterise problem and solution statements, just one step is required to install the necessary packages. Install the requirements in your terminal using pip:
