@@ -64,7 +64,7 @@ pip install -r requirements.txt
 ### Quick Start Guide
 
 To train, tune, test and select the models for identifying problem and solution statements, refer to the following notebook:
-* [Problem-solution notebook](Problem-solution_identifier.ipynb)
+* [Problem-solution notebook](./Problem-Solution_Identifier.ipynb)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
