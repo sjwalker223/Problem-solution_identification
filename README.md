@@ -17,9 +17,6 @@
     <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#quick-start-guide">Quick Start Guide</a></li>
-        <li><a href="#model-versions">Model Versions</a></li>
-        <li><a href="#logging-changes">Logging Changes</a></li>
-        <li><a href="#evaluating-model-performance">Evaluating Model Performance</a></li>
       </ul>
     <li><a href="#model-overview">Model Overview</a></li>
     <li><a href="#contributors">Contributors</a></li>
